@@ -40,7 +40,7 @@ JPanel panel = new JPanel();
 		// 6. Add the panel to the frame. (The panel is invisible.)
 frame.add(panel);
 		// 7. Download an image of a drum from the Internet. Drop it into your
-		// Eclipse project under "default package".
+		// Eclipse project under "default package"
 
 		// 8. Put the name of your image file in a String variable.
 String drum="drum image.jpg";

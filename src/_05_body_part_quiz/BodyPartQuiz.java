@@ -41,7 +41,7 @@ public class BodyPartQuiz {
 		window.add(panel);
 
 		// 3. Change the size of the window so that you can only see part of the
-		// image.
+		// ima	ge.
 		window.setSize(500, 500);
 
 		showNextImage();
@@ -51,7 +51,8 @@ public class BodyPartQuiz {
 	private void startQuiz() {
 
 		// 1. Make an int variable to hold the score.
-
+		
+		
 		// 2. Set the size of the window in the initializeGui() method 
 
 		// 4. Ask the user who this person is and store their answer
